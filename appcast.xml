@@ -4,6 +4,15 @@
     <title>Portmole</title>
     <link>https://portmole.techynar.com</link>
     <item>
+      <title>Portmole 1.0.1</title>
+      <pubDate>Wed, 14 Oct 2026 04:11:25 +0000</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/techynAR/portmole-releases/releases/tag/v1.0.1</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/techynAR/portmole-releases/releases/download/v1.0.1/Portmole-1.0.1.dmg" type="application/octet-stream" sparkle:edSignature="UuNK1RLqsrk0oWBJGfdU6tSNQaXkYhwHxc07k7hUNrYFr0EFCSnnAXBbSTbO2Vll3d3rGTkYWeADuHlMhpVTCw==" length="2799834"/>
+    </item>
+    <item>
       <title>Portmole 1.0.0</title>
       <pubDate>Wed, 14 Oct 2026 03:59:59 +0000</pubDate>
       <sparkle:version>16</sparkle:version>
