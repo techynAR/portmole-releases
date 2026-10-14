@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Portmole</title>
+    <link>https://portmole.techynar.com</link>
+    <item>
+      <title>Portmole 1.0.0</title>
+      <pubDate>Wed, 14 Oct 2026 03:59:59 +0000</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/techynAR/portmole-releases/releases/tag/v1.0.0</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/techynAR/portmole-releases/releases/download/v1.0.0/Portmole-1.0.0.dmg" type="application/octet-stream" sparkle:edSignature="QcpBdyrZSAddnAdFaBrWLOSf7FcAEwiU95J+w7+Ynf/YQob5NCPfObA8ErCRt4V5eEKYyENEsEmrWXw5wmWaCw==" length="2778206"/>
+    </item>
+  </channel>
+</rss>
